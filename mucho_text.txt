@@ -8,3 +8,5 @@ Byeeee.
 Hoy hablaremos de su vida
 
 Cambio de maestria
+
+HICE ESTE CAMBIO PA DEMOSTRAR QUE EL MUCHACHO NO SE VA A BORRAR CON GIT RESET HEAD
